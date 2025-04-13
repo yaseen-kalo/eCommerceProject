@@ -77,8 +77,8 @@
                     <version>3.10.1</version>
                     <configuration>
                         <!-- put your configurations here -->
-                        <source>21</source> <!-- or your JDK version -->
-                        <target>21</target> <!-- or your JDK version -->
+                        <source>22</source> <!-- or your JDK version -->
+                        <target>22</target> <!-- or your JDK version -->
                         <fork>true</fork>
                         <compilerArgs>
                             <arg>--add-opens</arg>
