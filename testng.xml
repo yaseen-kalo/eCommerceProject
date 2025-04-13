@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression Suite">
+    <listeners>
+        <listener class-name="Utilities.ExtentListenerClass"></listener>
+    </listeners>
+    <test name="LoginTests">
+        <classes>
+            <class name="testCases.OAuth"/>
+            <class name="testCases.AddProduct"/>
+            <class name="testCases.OrderConfirmation"/>
+            <class name="testCases.DeleteOrder"/>
+            <class name="testCases.DeleteProduct"/>
+        </classes>
+    </test>
+</suite>
