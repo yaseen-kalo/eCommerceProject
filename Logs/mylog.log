@@ -52,3 +52,5 @@
 [INFO ] 2025-04-13 15:36:22.191 [main] eCommerceProject - Order has been deleted successfully
 [INFO ] 2025-04-13 15:36:22.194 [main] eCommerceProject - Authenticaltion token and ProductId has been fetched successfully
 [INFO ] 2025-04-13 15:36:22.669 [main] eCommerceProject - Product has been deleted Successfully
+[INFO ] 2025-04-13 17:02:04.620 [main] eCommerceProject - Authenticaltion token and UserId has been generated successfully
+[INFO ] 2025-04-13 17:02:04.651 [main] eCommerceProject - Authenticaltion token and User has been fetched successfully
